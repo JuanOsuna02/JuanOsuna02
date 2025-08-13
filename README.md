@@ -20,8 +20,8 @@ Primera experiencia IT · proyectos simples y prolijos
 
 <details open>
   <summary><b>Perfil</b></summary>
-Soy de <strong>Paraná, Entre Ríos</strong>. Estudio en la UTN y curso un <strong>Full Stack Web (2025)</strong>.
-Trabajo en <strong>PROCLOR</strong> desde 2020 en logística y armado/envío de <strong>licitaciones</strong> públicas y privadas.
+Soy de <strong>Paraná, Entre Ríos</strong>. Estudio en la UTN y estoy realizando un curso de <strong>Full Stack Web (2025)</strong>.
+Trabajo en <strong>PROCLOR</strong>, la empresa de mi familia,  desde 2020 en logística y armado/envío de <strong>licitaciones</strong> públicas y privadas.
 Interés en roles entry-level: Frontend Jr, QA o Soporte. Busco aprender en equipo y mantener código claro.
 </details>
 
